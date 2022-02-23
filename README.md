@@ -1,9 +1,9 @@
-<div class="Box-header Details js-details-container">
+<div>
 <div>
   <h1>Insert_data_pdf_table_the_database</h1>
 insert data from a pdf table into the database, VBA
 </div>
-  <div class="Box-header Details js-details-container">
+  <div>
     <h1>Technologies 🚀</h1>
     <li>VBA</li>
     <li>SQL</li>
