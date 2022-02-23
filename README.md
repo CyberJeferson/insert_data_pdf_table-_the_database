@@ -1,7 +1,7 @@
 <div>
 <div>
   <h1>Insert_data_pdf_table_the_database</h1>
-insert data from a pdf table into the database, VBA
+Inserting data from a pdf table into the database with excel vba.
 </div>
   <div>
     <h1>Technologies 🚀</h1>
